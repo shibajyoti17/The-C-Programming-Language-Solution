@@ -6,3 +6,12 @@
 
 # Unignore all dirs
 !*/
+
+# Ignore anything with extension .out
+*.out
+
+# Ignore anything with extension .exe
+*.exe
+
+# Ignore .vscode directory
+*.vscode*
